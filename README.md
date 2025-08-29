@@ -39,7 +39,7 @@ This project is a from-scratch implementation of **Decision Tree** and **Random 
 
 1.  Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/your-username/Classification-Random-Forest.git
+    git clone https://github.com/Skan404/Classification-Random-Forest.git
     cd Classification-Random-Forest
     ```
 
